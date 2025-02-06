@@ -23,11 +23,14 @@ This repository intended to showcase skills, share projects and track my progres
     - Sakila DVD Rental Store Data Exploration & Analysis
   
   - Tableau [[link to Tableau Vizzez](https://public.tableau.com/app/profile/benny.sappetua/vizzes)]
+ 
+  - Google Looker Studio [[link to LookerStudio Dashboard](https://lookerstudio.google.com/reporting/0472e6cc-860c-4648-9042-28ceeb4e36a7/page/xzDXE)]
+
 
 ## Portofolio Projects
-In this section I will list my data analytics projects briefly describing the goals, description and tools 
+In this section I will list my data analytics projects along with the goals, description and tools used for each project 
 
-## Analyzing OLIST Ecommerce Performance and Problems
+## (Python) Analyzing OLIST Ecommerce Performance and Problems
 __Code__: [Analyzing OLIST E-commerce Performance and Problems.ipynb](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/c89762ffdc57cfab3b1ad8b791e73022a4d9a30b/OLIST%20E-commerce%20Data%20Analysis.ipynb)
 
 __Goals__: To analyze OLIST performance throughout the years and the problem it's facing.
@@ -41,5 +44,11 @@ __Tools__: Python, Pandas, Numpy, Seaborn.
 __Results__: Using Python as analyzing tools revealed that OLIST E-commerce facing "Single-Transaction Customer" problem, meaning almost all new customers only doing transaction once, resulting in terrible customer retention throughout the years.
 
 
+## (SQL) Chinook Music Player Library Data Exploration
 
+
+## (SQL) Ecommerce Data Exploratory & Analysis
+
+
+## (SQL) Sakila DVD Rental Store Data Exploration & Analysis
 
