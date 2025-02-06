@@ -27,11 +27,11 @@ This repository intended to showcase skills, share projects and track my progres
  
   - Google Looker Studio [[link to LookerStudio Dashboard](https://lookerstudio.google.com/reporting/0472e6cc-860c-4648-9042-28ceeb4e36a7/page/xzDXE)]
 
- - Education
+ - [Education](#Education)
 
- - Certificates
+ - [Certificates](#Certificates)
 
- - Contacts
+ - [Contacts](#Contacts)
 
 
 ## Portofolio Projects
