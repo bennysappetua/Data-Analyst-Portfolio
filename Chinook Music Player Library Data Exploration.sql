@@ -163,18 +163,18 @@ SELECT SupportRepId, top_spender.CustomerId
 FROM Customer c 
 RIGHT JOIN top_spender ON c.CustomerId = top_spender.CustomerId
 
-
 -- WHERE = filter ke kolom asli
 -- HAVING = filter hasil agregasi (sum, avg, min, max, etc..)
 
 
--- latihan live session 24 Oct 2024
+-- Mencari judul lagu yang diawali dengan huruf 'g' dan nama composernya mengandung huruf 'a' 
 SELECT name, composer
 FROM Track t 
 WHERE composer IS NOT NULL
 AND name LIKE 'g%' OR composer LIKE '%a'
 ORDER BY composer DESC
 
+-- Mencari CustomerId dan negara asal customer beserta total dan rata-rata pembelian selama tahun 2011
 SELECT 
 CustomerId, 
 BillingCountry, 
@@ -184,10 +184,3 @@ FROM Invoice i
 WHERE InvoiceDate <= '2011-12-31' AND InvoiceDate >= '2011-01-01'
 GROUP BY 1,2
 HAVING AVG(Total) > 5
-
--- buat belajar SQL = hackerrank.com
-
-
-SELECT *
-FROM Album a 
-LIMIT 5
