@@ -22,7 +22,7 @@ This repository intended to showcase skills, share projects and track my progres
     - [Ecommerce Data Exploratory & Analysis](#Ecommerce-Data-Exploratory-&-Analysis).
     - [Sakila DVD Rental Store Data Exploration & Analysis](#Sakila-DVD-Rental-Store-Data-Exploration-&-Analysis).
   
-  - Tableau [[link to Tableau Vizzez](https://public.tableau.com/app/profile/benny.sappetua/vizzes)]
+  - Tableau [[link to Tableau Vizzes](https://public.tableau.com/app/profile/benny.sappetua/vizzes)]
  
   - Google Looker Studio [[link to LookerStudio Dashboard](https://lookerstudio.google.com/reporting/0472e6cc-860c-4648-9042-28ceeb4e36a7/page/xzDXE)]
 
@@ -45,7 +45,13 @@ __Results__: Using Python as analyzing tools revealed that OLIST E-commerce faci
 
 
 ## Chinook Music Player Library Data Exploration
+__Code__: [Chinook Music Player Library Data Exploration.sql](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/main/Chinook%20Music%20Player%20Library%20Data%20Exploration.sql)
 
+__Description__: Chinook is a music library database that contains database for transaction (InvoiceLine, Invoice, Customer) and playlist information. This project is intended as an introduction for SQL beginners with the following steps: basic selection, using WHERE and HAVING filter, learning the difference between WHERE and HAVING, using ascending/descending filter, limit fuction, aggregate function, JOIN function, UNION, function and CTE.
+
+__Skills__: Filtering, Aggregate function, JOIN Tabel, UNION, CTE
+
+__Tools__: DBeaver
 
 ## Ecommerce Data Exploratory & Analysis
 
