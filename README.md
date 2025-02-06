@@ -38,7 +38,7 @@ __Goals__: To analyze OLIST performance throughout the years and the problem it'
 
 __Description__: The project focusing on analyzing data from OLIST E-commerce located in Brazil and the data period is between 2016 - 2018. The main dataset included orders, payments, customers, products, review and geolocation. This project include importing dataset, creating connection between SQL and Python, merging multiple dataset using key connection between dataset framework, dealing with null values and data cleansing, adding important column (ex: transaction time label, adding year, month and day column and adding column for calculating total order value), analyzing customer demographic, analyzing customer's order behaviour, analyzing customer's review and making time series analysis. Each analysis equipped with it's own visualization using matplotlib.
 
-__Skills__: data cleansing, data analysis, problem analysis, hypothesis testing to confirm the problem, data visualization
+__Skills__: null value identification, data cleansing, data analysis, problem analysis, hypothesis testing to confirm the problem, data visualization
 
 __Tools__: Python, Pandas, Numpy, Seaborn.
 
