@@ -21,7 +21,7 @@ This repository intended to showcase skills, share projects and track my progres
     - [Chinook Music Player Library Data Exploration](#Chinook-Music-Player-Library-Data-Exploration).
     - [Ecommerce Data Exploratory & Analysis](#Ecommerce-Data-Exploratory-&-Analysis).
     - [Sakila DVD Rental Store Data Exploration & Analysis](#Sakila-DVD-Rental-Store-Data-Exploration-&-Analysis).
-    - [Google BigQuery](https://console.cloud.google.com/bigquery?sq=440166613534:ed4d78a9441840e190283bcbdbf0cec5)
+    - [Google BigQuery - Thelook Ecommerce](https://console.cloud.google.com/bigquery?sq=440166613534:ed4d78a9441840e190283bcbdbf0cec5)
   
   - Tableau [[link to Tableau Vizzes](https://public.tableau.com/app/profile/benny.sappetua/vizzes)]
  
