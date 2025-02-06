@@ -4,3 +4,15 @@ Hi, I'm Benny Sappetua an ex senior e-commerce executive, who specialize on onli
 I'm skilled in E-Commerce Data Analysis, Account Management, Maximizing Revenue Through E-Commerce Platform Feature, Allocating & Forecasting Available Stock and Managing Store Operation Team. Now I'm currently pursuing another specialized skills as Data Analyst which I believe will be valuable set of skill in my role as E-Commerce Specialist and now I have now been certified as a Beginner Data Analyst 
 
 In my free time, I enjoy exploring new data analysis technique and new data visualization tools, and I always looking for new opportunities to expand my knowledge and skill set. Wether working on a team or independently, I am driven by the satisfaction of discovering a new angle of insight and story telling from the data I've been analyzed and the thrill of solving complex problems.
+
+This is my CV in a pdf file.
+
+This repository intended to showcase skills, share projects and track my progress in Data Analytics related topics.
+
+__Table of Contents__
+
+- About
+
+- Portofolio Projects
+  - Python
+    - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)]([url](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/main/OLIST%20E-commerce%20Data%20Analysis.ipynb))
