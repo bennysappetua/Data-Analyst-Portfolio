@@ -27,6 +27,12 @@ This repository intended to showcase skills, share projects and track my progres
  
   - Google Looker Studio [[link to LookerStudio Dashboard](https://lookerstudio.google.com/reporting/0472e6cc-860c-4648-9042-28ceeb4e36a7/page/xzDXE)]
 
+ - Education
+
+ - Certificates
+
+ - Contacts
+
 
 ## Portofolio Projects
 In this section I will list my data analytics projects along with the goals, description and tools used for each project 
@@ -74,3 +80,13 @@ __Description__: Sakila DVD Rental Store Data Exploration & Analysis is the most
 __Skills__: Filtering, Aggregate function, String function, Concatenate, JOIN Tabel, CTE
 
 __Tools__: DBeaver
+
+
+## Education
+UNIVERSITAS KATOLIK ATMA JAYA JAKARTA (Sep 2011 - Dec 2017)
+
+## Certificates
+[Growia Education - Beginner Data Analyst Certificate ](https://drive.google.com/file/d/1y1phKCs-LUPmPvgWhe42NXpm_FKHLiqz/view?usp=sharing)
+
+## Contacts
+
