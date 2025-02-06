@@ -15,7 +15,6 @@ This repository intended to showcase skills, share projects and track my progres
 
 - Portofolio Projects
   - Python
-    - Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)
     - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](#Analyzing-OLIST-Ecommerce-Performance-and-Problems).
 
   - SQL
@@ -26,30 +25,18 @@ This repository intended to showcase skills, share projects and track my progres
 In this section I will list my data analytics projects briefly describing the goals, description and tools 
 
 ## Analyzing OLIST Ecommerce Performance and Problems
-Code: [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/c89762ffdc57cfab3b1ad8b791e73022a4d9a30b/OLIST%20E-commerce%20Data%20Analysis.ipynb)
+__Code__: [Analyzing OLIST E-commerce Performance and Problems.ipynb](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/c89762ffdc57cfab3b1ad8b791e73022a4d9a30b/OLIST%20E-commerce%20Data%20Analysis.ipynb)
+
+__Goals__: To analyze OLIST performance throughout the years and the problem it's facing.
+
+__Description__: The project focusing on analyzing data from OLIST E-commerce located in Brazil and the data period is between 2016 - 2018. The main dataset included orders, payments, customers, products, review and geolocation. This project include importing dataset, creating connection between SQL and Python, merging multiple dataset using key connection between dataset framework, dealing with null values and data cleansing, adding important column (ex: transaction time label, adding year, month and day column and adding column for calculating total order value), analyzing customer demographic, analyzing customer's order behaviour, analyzing customer's review and making time series analysis. Each analysis equipped with it's own visualization using matplotlib.
+
+__Skills__: data cleansing, data analysis, problem analysis, hypothesis testing to confirm the problem, data visualization
+
+__Tools__: Python, Pandas, Numpy, Seaborn.
+
+__Results__: Using Python as analyzing tools revealed that OLIST E-commerce facing "Single-Transaction Customer" problem, meaning almost all new customers only doing transaction once, resulting in terrible customer retention throughout the years.
 
 
-# Example headings
 
-## Sample Section
 
-## This'll be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
-
-## This heading is not unique in the file
-
-TEXT 1
-
-## This heading is not unique in the file
-
-TEXT 2
-
-# Links to the example headings above
-
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
