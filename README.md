@@ -44,6 +44,7 @@ __Tools__: Python, Pandas, Numpy, Seaborn.
 __Results__: Using Python as analyzing tools revealed that OLIST E-commerce facing "Single-Transaction Customer" problem, meaning almost all new customers only doing transaction once, resulting in terrible customer retention throughout the years.
 
 
+     
 ## Chinook Music Player Library Data Exploration
 __Code__: [Chinook Music Player Library Data Exploration.sql](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/main/Chinook%20Music%20Player%20Library%20Data%20Exploration.sql)
 
@@ -53,8 +54,15 @@ __Skills__: Filtering, Aggregate function, JOIN Tabel, UNION, CTE
 
 __Tools__: DBeaver
 
+    
 ## Ecommerce Data Exploratory & Analysis
+__Code__: [Ecommerce Data Exploratory & Analysis.sql](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/main/Ecommerce%20Data%20Exploratory%20%26%20Analysis.sql)
 
+__Description__: Ecommerce Data Exploratory & Analysis is intended as an assignment for SQL course. This assignment testing my logic to use the basic SQL skills that I've already learned and combined it. For example to determine which employee serving more than 3 customers I must combine JOIN function and HAVING function as filter. First I JOIN customer and employee dataset and using HAVING to filter employee that have total customer more than 3. On the next assignment I also tasked to combine CTE with JOIN. 
+
+__Skills__: Filtering, Aggregate function, JOIN Tabel, CTE
+
+__Tools__: DBeaver
 
 ## Sakila DVD Rental Store Data Exploration & Analysis
 
