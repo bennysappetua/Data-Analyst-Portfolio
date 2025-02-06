@@ -18,8 +18,11 @@ This repository intended to showcase skills, share projects and track my progres
     - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](#Analyzing-OLIST-Ecommerce-Performance-and-Problems).
 
   - SQL
- 
-  - Tableau
+    - Chinook Music Player Library Data Exploration
+    - Ecommerce Data Exploratory & Analysis
+    - Sakila DVD Rental Store Data Exploration & Analysis
+  
+  - Tableau [[link to Tableau Vizzez](https://public.tableau.com/app/profile/benny.sappetua/vizzes)]
 
 ## Portofolio Projects
 In this section I will list my data analytics projects briefly describing the goals, description and tools 
