@@ -86,7 +86,9 @@ __Tools__: DBeaver
 UNIVERSITAS KATOLIK ATMA JAYA JAKARTA (Sep 2011 - Dec 2017)
 
 ## Certificates
+Growia Education is an educational center for career development in Indonesia that offer Data Analyst course. This is the Data Analyst certificates that I get from Growia Education:  
 [Growia Education - Beginner Data Analyst Certificate ](https://drive.google.com/file/d/1y1phKCs-LUPmPvgWhe42NXpm_FKHLiqz/view?usp=sharing)
 
 ## Contacts
-
+- LinkedIn: https://www.linkedin.com/in/benny-sappetua/
+- Email: benny.sappetua@gmail.com
