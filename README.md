@@ -56,7 +56,7 @@ __Tools__: DBeaver
 
     
 ## Ecommerce Data Exploratory
-__Code__: [Ecommerce Data Exploratory.sql](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/main/Ecommerce%20Data%20Exploratory%20%26%20Analysis.sql)
+__Code__: [Ecommerce Data Exploratory.sql](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/main/Ecommerce%20Data%20Exploratory.sql)
 
 __Description__: Ecommerce Data Exploratory & Analysis is intended as an assignment for SQL course. This assignment testing my logic to use the basic SQL skills that I've already learned and combined it. For example to determine which employee serving more than 3 customers I must combine JOIN function and HAVING function as filter. First I JOIN customer and employee dataset and using HAVING to filter employee that have total customer more than 3. On the next assignment I also tasked to combine CTE with JOIN. 
 
