@@ -15,12 +15,12 @@ This repository intended to showcase skills, share projects and track my progres
 
 - Portofolio Projects
   - Python
-    - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](#(Python)-Analyzing-OLIST-Ecommerce-Performance-and-Problems).
+    - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](#Analyzing-OLIST-Ecommerce-Performance-and-Problems).
 
   - SQL
-    - [Chinook Music Player Library Data Exploration](#(SQL)-Chinook-Music-Player-Library-Data-Exploration).
-    - [Ecommerce Data Exploratory & Analysis]((SQL)-Ecommerce-Data-Exploratory-&-Analysis).
-    - [Sakila DVD Rental Store Data Exploration & Analysis](#(SQL)-Sakila-DVD-Rental-Store-Data-Exploration-&-Analysis).
+    - [Chinook Music Player Library Data Exploration](#Chinook-Music-Player-Library-Data-Exploration).
+    - [Ecommerce Data Exploratory & Analysis](#Ecommerce-Data-Exploratory-&-Analysis).
+    - [Sakila DVD Rental Store Data Exploration & Analysis](#Sakila-DVD-Rental-Store-Data-Exploration-&-Analysis).
   
   - Tableau [[link to Tableau Vizzez](https://public.tableau.com/app/profile/benny.sappetua/vizzes)]
  
@@ -30,7 +30,7 @@ This repository intended to showcase skills, share projects and track my progres
 ## Portofolio Projects
 In this section I will list my data analytics projects along with the goals, description and tools used for each project 
 
-## (Python) Analyzing OLIST Ecommerce Performance and Problems
+## Analyzing OLIST Ecommerce Performance and Problems
 __Code__: [Analyzing OLIST E-commerce Performance and Problems.ipynb](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/c89762ffdc57cfab3b1ad8b791e73022a4d9a30b/OLIST%20E-commerce%20Data%20Analysis.ipynb)
 
 __Goals__: To analyze OLIST performance throughout the years and the problem it's facing.
@@ -44,11 +44,11 @@ __Tools__: Python, Pandas, Numpy, Seaborn.
 __Results__: Using Python as analyzing tools revealed that OLIST E-commerce facing "Single-Transaction Customer" problem, meaning almost all new customers only doing transaction once, resulting in terrible customer retention throughout the years.
 
 
-## (SQL) Chinook Music Player Library Data Exploration
+## Chinook Music Player Library Data Exploration
 
 
-## (SQL) Ecommerce Data Exploratory & Analysis
+## Ecommerce Data Exploratory & Analysis
 
 
-## (SQL) Sakila DVD Rental Store Data Exploration & Analysis
+## Sakila DVD Rental Store Data Exploration & Analysis
 
