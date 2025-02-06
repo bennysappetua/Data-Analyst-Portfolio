@@ -9,7 +9,7 @@ This is my CV in a pdf file.
 
 This repository intended to showcase skills, share projects and track my progress in Data Analytics related topics.
 
-__Table of Contents__
+# Table of Contents
 
 - About
 
@@ -17,9 +17,21 @@ __Table of Contents__
   - Python
     - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](url)
 
+  - SQL
+ 
+  - Tableau
 
-
-# Analyzing OLIST E-commerce Performance and Problems
+### Analyzing OLIST E-commerce Performance and Problems
 Code: [OLIST](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/c89762ffdc57cfab3b1ad8b791e73022a4d9a30b/OLIST%20E-commerce%20Data%20Analysis.ipynb)
 
 
+# Section Heading
+
+Some body text of this section.
+
+<a name="my-custom-anchor-point"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
+
+[A link to that custom anchor](#my-custom-anchor-point)
