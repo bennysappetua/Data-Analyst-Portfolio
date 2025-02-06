@@ -9,19 +9,23 @@ This is my CV in a pdf file.
 
 This repository intended to showcase skills, share projects and track my progress in Data Analytics related topics.
 
-# Table of Contents
+## Table of Contents
 
 - About
 
 - Portofolio Projects
   - Python
-    - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](url)
+    - Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst
+    - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](#Analyzing-OLIST-Ecommerce-Performance-and-Problems).
 
   - SQL
  
   - Tableau
 
-### Analyzing OLIST E-commerce Performance and Problems
+## Portofolio Projects
+In this section I will list my data analytics projects briefly describing the goals, description and tools 
+
+## Analyzing OLIST Ecommerce Performance and Problems
 Code: [OLIST](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/c89762ffdc57cfab3b1ad8b791e73022a4d9a30b/OLIST%20E-commerce%20Data%20Analysis.ipynb)
 
 
