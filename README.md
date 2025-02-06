@@ -18,9 +18,9 @@ This repository intended to showcase skills, share projects and track my progres
     - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](#Analyzing-OLIST-Ecommerce-Performance-and-Problems).
 
   - SQL
-    - [Chinook Music Player Library Data Exploration](#(SQL)-Chinook-Music-Player-Library-Data-Exploration)
-    - [Ecommerce Data Exploratory & Analysis]((SQL)-Ecommerce-Data-Exploratory-&-Analysis)
-    - [Sakila DVD Rental Store Data Exploration & Analysis](#(SQL)-Sakila-DVD-Rental-Store-Data-Exploration-&-Analysis)
+    - [Chinook Music Player Library Data Exploration](#(SQL)-Chinook-Music-Player-Library-Data-Exploration).
+    - [Ecommerce Data Exploratory & Analysis]((SQL)-Ecommerce-Data-Exploratory-&-Analysis).
+    - [Sakila DVD Rental Store Data Exploration & Analysis](#(SQL)-Sakila-DVD-Rental-Store-Data-Exploration-&-Analysis).
   
   - Tableau [[link to Tableau Vizzez](https://public.tableau.com/app/profile/benny.sappetua/vizzes)]
  
