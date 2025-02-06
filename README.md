@@ -7,7 +7,7 @@ In my free time, I enjoy exploring new data analysis technique and new data visu
 
 This is my CV in a pdf file.
 
-This repository intended to showcase skills, share projects and track my progress in Data Analytics related topics.
+This repository intended to showcase skills, share projects and track my progress in Data Analytic related topics.
 
 ## Table of Contents
 
@@ -21,6 +21,7 @@ This repository intended to showcase skills, share projects and track my progres
     - [Chinook Music Player Library Data Exploration](#Chinook-Music-Player-Library-Data-Exploration).
     - [Ecommerce Data Exploratory & Analysis](#Ecommerce-Data-Exploratory-&-Analysis).
     - [Sakila DVD Rental Store Data Exploration & Analysis](#Sakila-DVD-Rental-Store-Data-Exploration-&-Analysis).
+    - [Google BigQuery](https://console.cloud.google.com/bigquery?sq=440166613534:ed4d78a9441840e190283bcbdbf0cec5)
   
   - Tableau [[link to Tableau Vizzes](https://public.tableau.com/app/profile/benny.sappetua/vizzes)]
  
@@ -64,5 +65,12 @@ __Skills__: Filtering, Aggregate function, JOIN Tabel, CTE
 
 __Tools__: DBeaver
 
+  
 ## Sakila DVD Rental Store Data Exploration & Analysis
+__Code__: [Sakila DVD Rental Store Data Exploration & Analysis.sql](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/main/Sakila%20DVD%20Rental%20Store%20Data%20Exploration%20%26%20Analysis.sql)
 
+__Description__: Sakila DVD Rental Store Data Exploration & Analysis is the most complete data exploratory and analysis that I've done using SQL. This project is intended for SQL practice that haven't been teached by the mentor and with more advance query such as LOWER for converting string into lower-case, Concatenation operator using '||', using Wildcard, JOIN and CTE.  
+
+__Skills__: Filtering, Aggregate function, String function, Concatenate, JOIN Tabel, CTE
+
+__Tools__: DBeaver
