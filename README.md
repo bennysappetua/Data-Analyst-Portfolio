@@ -15,4 +15,11 @@ __Table of Contents__
 
 - Portofolio Projects
   - Python
-    - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](OLIST E-commerce Data Analysis.ipynb)
+    - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](url)
+
+
+
+# Analyzing OLIST E-commerce Performance and Problems
+Code: [OLIST]([url](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/c89762ffdc57cfab3b1ad8b791e73022a4d9a30b/OLIST%20E-commerce%20Data%20Analysis.ipynb))
+
+
