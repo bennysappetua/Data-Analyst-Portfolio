@@ -5,7 +5,7 @@ I'm skilled in E-Commerce Data Analysis, Account Management, Maximizing Revenue 
 
 In my free time, I enjoy exploring new data analysis technique and new data visualization tools, and I always looking for new opportunities to expand my knowledge and skill set. Wether working on a team or independently, I am driven by the satisfaction of discovering a new angle of insight and story telling from the data I've been analyzed and the thrill of solving complex problems.
 
-This is my CV in a [pdf file](https://drive.google.com/file/d/1MdarRUmm13J8TCzVqW7pInsg3fv6BAjY/view?usp=sharing).
+This is my CV in a [pdf file](https://drive.google.com/file/d/1hT8aEkNN-6k_d9G_M3MGeyxw0LLOPBoG/view?usp=sharing)
 
 This repository intended to showcase skills, share projects and track my progress in Data Analytic related topics.
 
