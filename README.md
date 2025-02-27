@@ -51,6 +51,21 @@ __Tools__: Python, Pandas, Numpy, Seaborn.
 __Results__: Using Python as analyzing tools revealed that OLIST E-commerce facing "Single-Transaction Customer" problem, meaning almost all new customers only doing transaction once, resulting in terrible customer retention throughout the years.
 
 
+## Retail Online Store Data Analysis
+__Code__: [Retail Online Store Data Analysis](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/Retail%20Store%20Data%20Analysis.ipynb)
+
+__Goals__: To analyze Online Retail Store performance throughout 2019.
+
+__Description__: Online Retail Store Data Analysis is a project that aims to analyze sales data from an online retail store to uncover valuable insights for strategic decision-making. The analysis focuses on product segmentation to assess category performance, customer segmentation to classify customers based on their transaction recency, frequency and volume score (RFM Analysis), time series analysis to identify sales trends and long-term growth patterns, and seasonality analysis to detect periodic fluctuations for better pricing, promotions, and stock management. By leveraging these methodologies, the project provides data-driven recommendations to enhance operational efficiency and business growth.
+
+I also use a newly learned python library that is ARIMA and Prophet to make revenue forecasting, that can be used as target revenue for the next period/year.  
+
+__Skills__: Null value identification, data cleansing, data analysis, problem analysis, hypothesis testing to confirm the problem, data visualization, data forecasting.
+
+__Tools__: Python, Pandas, Numpy, Seaborn, K-means, ARIMA, Prophet.
+
+__Results__: Using Python for data analysis, I assess the SWOT (Strengths, Weaknesses, Opportunities, and Threats) of the analyzed online retail store. Based on this analysis, I provide strategic recommendations tailored for all periods (Q1–Q4), Q1–Q3, and Q4 to optimize business performance.
+
      
 ## Chinook Music Player Library Data Exploration
 __Code__: [Chinook Music Player Library Data Exploration.sql](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/main/Chinook%20Music%20Player%20Library%20Data%20Exploration.sql)
