@@ -26,7 +26,9 @@ This repository intended to showcase skills, share projects and track my progres
   
   - Tableau [[link to Tableau Vizzes](https://public.tableau.com/app/profile/benny.sappetua/vizzes)]
  
-  - Google Looker Studio [[link to LookerStudio Dashboard](https://lookerstudio.google.com/reporting/0472e6cc-860c-4648-9042-28ceeb4e36a7/page/xzDXE)]
+  - Google Looker Studio
+    [[Link 1 PT Tumbuh Bersama Dashboard](https://lookerstudio.google.com/reporting/0472e6cc-860c-4648-9042-28ceeb4e36a7/page/xzDXE)]
+    [[Link 2 Online Retail Store Dashboard](https://lookerstudio.google.com/u/0/reporting/586f3766-0165-4fbf-91e5-1d037651434f/page/juIsE)]
 
  - [Education](#Education)
 
