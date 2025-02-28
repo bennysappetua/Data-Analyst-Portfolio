@@ -16,6 +16,7 @@ This repository intended to showcase skills, share projects and track my progres
 - Portofolio Projects
   - Python
     - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](#Analyzing-OLIST-Ecommerce-Performance-and-Problems).
+    - [Retail Online Store Data Analysis (Intermediate Level Data Analyst)](#Retail-Online-Store-Data-Analysis).
 
   - SQL
     - [Chinook Music Player Library Data Exploration](#Chinook-Music-Player-Library-Data-Exploration).
