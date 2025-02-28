@@ -31,7 +31,7 @@ This repository intended to showcase skills, share projects and track my progres
     [[Link 2 Online Retail Store Dashboard](https://lookerstudio.google.com/u/0/reporting/586f3766-0165-4fbf-91e5-1d037651434f/page/juIsE)]
 
   - Microsoft Power BI Desktop
-    - [[Project 1. Maven Market Dashboard Training (pdf)](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/Maven%20Market%20Dashboard%20Training.pdf)]
+    - [Project 1. Maven Market Dashboard Training(pdf)](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/Maven%20Market%20Dashboard%20Training.pdf)
     - [[Project 1. Maven Market Dashboard Training (download pbix file )](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/Maven%20Market%20Dashboard%20Training.pbix)]
 
  - [Education](#Education)
