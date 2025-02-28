@@ -55,7 +55,7 @@ __Results__: Using Python as analyzing tools revealed that OLIST E-commerce faci
 ## Retail Online Store Data Analysis
 __Code__: [Retail Online Store Data Analysis](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/Retail%20Store%20Data%20Analysis.ipynb)
 
-__Goals__: To analyze Online Retail Store performance throughout 2019.
+__Goals__: To analyze Online Retail Store performance throughout 2019 and make recommendation based on the insights found.
 
 __Description__: Online Retail Store Data Analysis is a project that aims to analyze sales data from an online retail store to uncover valuable insights for strategic decision-making. The analysis focuses on product segmentation to assess category performance, customer segmentation to classify customers based on their transaction recency, frequency and volume score (RFM Analysis), time series analysis to identify sales trends and long-term growth patterns, and seasonality analysis to detect periodic fluctuations for better pricing, promotions, and stock management. By leveraging these methodologies, the project provides data-driven recommendations to enhance operational efficiency and business growth.
 
