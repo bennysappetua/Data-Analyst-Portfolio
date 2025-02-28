@@ -32,7 +32,9 @@ This repository intended to showcase skills, share projects and track my progres
 
   - Microsoft Power BI Desktop
     - [Project 1. Maven Market Dashboard Training(pdf)](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/Maven%20Market%20Dashboard%20Training.pdf)
-    - [Project 1. Maven Market Dashboard Training (download pbix file )](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/Maven%20Market%20Dashboard%20Training.pbix)
+    - [Project 1. Maven Market Dashboard Training (download pbix file)](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/Maven%20Market%20Dashboard%20Training.pbix)
+    - [Project 2. AdventureWorks Dashboard Project(pdf)](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/AdventureWorks%20Dashboard%20Project.pdf)
+    - [Project 2. AdventureWorks Dashboard Project(download pbix file)](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/AdventureWorks%20Dashboard%20Project.pbix)
 
  - [Education](#Education)
 
