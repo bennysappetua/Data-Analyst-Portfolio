@@ -61,7 +61,7 @@ __Results__: Using Python as analyzing tools revealed that OLIST E-commerce faci
 
 
 ## Online Retail Store Data Analysis
-__Code__: [Retail Online Store Data Analysis](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/Retail%20Store%20Data%20Analysis.ipynb)
+__Code__: [Online Retail Store Data Analysis](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/Retail%20Store%20Data%20Analysis.ipynb)
 
 __Goals__: To analyze Online Retail Store performance throughout 2019 and make recommendation based on the insights found.
 
