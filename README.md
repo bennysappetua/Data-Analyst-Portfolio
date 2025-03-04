@@ -16,7 +16,7 @@ This repository intended to showcase skills, share projects and track my progres
 - Portofolio Projects
   - Python
     - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](#Analyzing-OLIST-Ecommerce-Performance-and-Problems).
-    - [Retail Online Store Data Analysis (Intermediate Level Data Analyst)](#Retail-Online-Store-Data-Analysis).
+    - [Online Retail Store Data Analysis (Intermediate Level Data Analyst)](#Online-Retail-Store-Data-Analysis).
 
   - SQL
     - [Chinook Music Player Library Data Exploration](#Chinook-Music-Player-Library-Data-Exploration).
@@ -60,7 +60,7 @@ __Tools__: Python, Pandas, Numpy, Seaborn.
 __Results__: Using Python as analyzing tools revealed that OLIST E-commerce facing "Single-Transaction Customer" problem, meaning almost all new customers only doing transaction once, resulting in terrible customer retention throughout the years.
 
 
-## Retail Online Store Data Analysis
+## Online Retail Store Data Analysis
 __Code__: [Retail Online Store Data Analysis](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/Retail%20Store%20Data%20Analysis.ipynb)
 
 __Goals__: To analyze Online Retail Store performance throughout 2019 and make recommendation based on the insights found.
