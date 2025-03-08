@@ -114,6 +114,7 @@ Growia Education is an educational center for career development in Indonesia th
 - [Growia Education - Beginner Data Analyst Certificate ](https://drive.google.com/file/d/1y1phKCs-LUPmPvgWhe42NXpm_FKHLiqz/view?usp=sharing)
 - [Growia Education - Intermediate Data Analyst Certificate ](https://drive.google.com/file/d/1fQIa_7MJg64GvN8zTnc0FQcPIXnFNOdp/view)
 - [Microsoft Power BI Desktop for Business Intelligence ](https://www.udemy.com/certificate/UC-8dc3ceca-8673-4a4b-b50d-cff8c51054b2/)
+- [SQL for Data Analysis: Advanced SQL Querying Techniques ](http://ude.my/UC-b96687de-2b36-4285-8cc3-1f10909ab913)
 - [EF SET English Certificate 71/100 (C2 Proficient) ](https://cert.efset.org/en/r1iSVj)
 
 ## Contacts
