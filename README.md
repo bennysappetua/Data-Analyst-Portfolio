@@ -17,7 +17,7 @@ This repository intended to showcase skills, share projects and track my progres
   - Python
     - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](#Analyzing-OLIST-Ecommerce-Performance-and-Problems).
     - [Online Retail Store Data Analysis (Intermediate Level Data Analyst)](#Online-Retail-Store-Data-Analysis).
-    - [AB Testing Project - Cookie Cats)](#AB-Testing-Project---Cookie-Cats).
+    - [AB Testing Project - Cookie Cats](#AB-Testing-Project---Cookie-Cats).
 
   - SQL
     - [Final Project - Advanced SQL Querying Technique for Data Analysis](#Final-Project---Advanced-SQL-Querying-Technique-for-Data-Analysis).
