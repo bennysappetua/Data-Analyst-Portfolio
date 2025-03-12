@@ -19,6 +19,7 @@ This repository intended to showcase skills, share projects and track my progres
     - [Online Retail Store Data Analysis (Intermediate Level Data Analyst)](#Online-Retail-Store-Data-Analysis).
 
   - SQL
+    - [Final Project - Advanced SQL Querying Technique for Data Analysis](#Final-Project---Advanced-SQL-Querying-Technique-for-Data-Analysis).
     - [Chinook Music Player Library Data Exploration](#Chinook-Music-Player-Library-Data-Exploration).
     - [Ecommerce Data Exploratory](#Ecommerce-Data-Exploratory).
     - [Sakila DVD Rental Store Data Exploration and Analysis](#Sakila-DVD-Rental-Store-Data-Exploration-and-Analysis).
@@ -75,6 +76,14 @@ __Tools__: Python, Pandas, Numpy, Seaborn, K-means, ARIMA, Prophet.
 
 __Results__: Using Python for data analysis, I assess the SWOT (Strengths, Weaknesses, Opportunities, and Threats) of the analyzed online retail store. Based on this analysis, I provide strategic recommendations tailored for all periods (Q1–Q4), Q1–Q3, and Q4 to optimize business performance.
 
+## Final Project - Advanced SQL Querying Technique for Data Analysis
+__Code__: [final project.sql](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/8b6a9910d8c4f84b03d8ce8cec12cd94ad1eaf3e/Final%20Project%20-%20Advanced%20SQL%20Querying%20Technique%20for%20Data%20Analysis/final_project.sql)
+
+__Description__: This is final project from Udemy online course "SQL for Data Analysis: Advanced SQL Querying Techniques". The scenario is that I've just been hired as a Data Analyst Intern for Major League Baseball (MLB), who has recently gotten access to a large amount of historical player data. I have access to decades worth of data including player statistics like schools attended, salaries, teams played for, height and weight, and more. My task is to use advanced SQL querying techniques to track how player statistics have changed over time and across different teams in the league.
+
+__Skills__: JOIN Table, Numeric functions, CTE, Window Functions, Rolling Calculations, Min/Max Value Filtering, Datetime Functions, String Functions, Pivoting
+
+__Tools__: MySQL Workbench
      
 ## Chinook Music Player Library Data Exploration
 __Code__: [Chinook Music Player Library Data Exploration.sql](https://github.com/bennysappetua/Data-Analyst-Portofolio/blob/main/Chinook%20Music%20Player%20Library%20Data%20Exploration.sql)
