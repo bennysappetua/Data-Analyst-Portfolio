@@ -17,6 +17,7 @@ This repository intended to showcase skills, share projects and track my progres
   - Python
     - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](#Analyzing-OLIST-Ecommerce-Performance-and-Problems).
     - [Online Retail Store Data Analysis (Intermediate Level Data Analyst)](#Online-Retail-Store-Data-Analysis).
+    - [AB Testing Project - Cookie Cats)](#AB-Testing-Project---Cookie-Cats).
 
   - SQL
     - [Final Project - Advanced SQL Querying Technique for Data Analysis](#Final-Project---Advanced-SQL-Querying-Technique-for-Data-Analysis).
@@ -44,7 +45,7 @@ This repository intended to showcase skills, share projects and track my progres
  - [Contacts](#Contacts)
 
 
-## Portofolio Projects
+## Portfolio Projects
 In this section I will list my data analytics projects along with the goals, description and tools used for each project 
 
 ## Analyzing OLIST Ecommerce Performance and Problems
@@ -75,6 +76,21 @@ __Skills__: Null value identification, data cleansing, data analysis, problem an
 __Tools__: Python, Pandas, Numpy, Seaborn, K-means, ARIMA, Prophet.
 
 __Results__: Using Python for data analysis, I assess the SWOT (Strengths, Weaknesses, Opportunities, and Threats) of the analyzed online retail store. Based on this analysis, I provide strategic recommendations tailored for all periods (Q1–Q4), Q1–Q3, and Q4 to optimize business performance.
+
+## AB Testing Project - Cookie Cats
+__Code__: [AB Testing Project - Cookie Cats](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/main/AB%20Testing%20Project%20-%20Cookie%20Cats/AB%20Testing%20Project%20-%20Cookie%20Cats.ipynb)
+
+__Goals__: To analyze the impact of moving the first time gate in Cookie Cats, a popular mobile puzzle game, from level 30 to level 40 on player retention and game engagement.
+
+__Description__: This project focuses on evaluating player retention and game activity using A/B testing. The analysis compares two groups: gate_30 (control group) and gate_40 (test group), examining their impact on player behavior and engagement metrics. The study involves data cleaning and preprocessing, calculating retention rates (1-day & 7-day), and applying statistical hypothesis testing to determine whether the gate modification significantly affects player retention. Various statistical techniques, including normality tests, t-tests, and Mann-Whitney U tests, are employed to validate findings.
+
+Additionally, this project utilizes bootstrapping techniques to improve result reliability and provide data-driven recommendations for optimizing in-game monetization strategies. 
+
+__Skills__: A/B testing methodology, hypothesis testing, statistical analysis, data preprocessing, data visualization, bootstrapping, experiment evaluation.
+
+__Tools__: Python, Pandas, NumPy, Seaborn, Matplotlib, Scipy.
+
+__Results__: The analysis determines whether relocating the time gate affects player retention and engagement, helping game developers make data-driven decisions on optimizing monetization strategies while maintaining player satisfaction.
 
 ## Final Project - Advanced SQL Querying Technique for Data Analysis
 __Code__: [final project.sql](https://github.com/bennysappetua/Data-Analyst-Portfolio/blob/8b6a9910d8c4f84b03d8ce8cec12cd94ad1eaf3e/Final%20Project%20-%20Advanced%20SQL%20Querying%20Technique%20for%20Data%20Analysis/final_project.sql)
